@@ -23,7 +23,7 @@
 ### Coding Profiles
 <!-- CODING-PROFILE-LIST:START -->
 - <a href="https://leetcode.com/3xp10it3r" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="digvijaygupta2143" height="30" width="40" /></a>[Leetcode](https://leetcode.com/3xp10it3r)
-- [HackerRank](https://www.hackerrank.com/profile/digvijaygupta211)
+- <a href="https://www.hackerrank.com/profile/digvijaygupta211" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="digvijaygupta2143" height="30" width="40" /></a>[HackerRank](https://www.hackerrank.com/profile/digvijaygupta211)
 - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/digvijay2143)
 - [CodeChef](https://www.codechef.com/users/dk3xploiter)
 - [Codeforces](https://codeforces.com/profile/exp10it3r)
